@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "fname": "Sushant",
+      "lname": "Kadam",
+      "username": "SushantKadam",
+      "email": "sushantkadam1000@gmail.com",
+      "password": "$2a$10$g3C26Eowqx0hUgWRDUEwK.J8boGz20WTu4Wp/gY1haCFlYqGhr36u",
+      "id": 1
+    },
+    {
+      "fname": "Suraj",
+      "lname": "Kadam",
+      "username": "sasa21",
+      "email": "kadamsuraj1000@gmail.com",
+      "password": "$2a$10$vczRZlpRtTeCdPBWZWtHZ.dlUFiAbClqt1BvFklyPO40lHTxxgVMS",
+      "id": 2
+    }
+  ]
+}

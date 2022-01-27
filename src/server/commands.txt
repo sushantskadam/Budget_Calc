@@ -1,0 +1,6 @@
+to install axios module open pro folder and command
+=> npm install axios --save
+
+open cmd in server folder and write this command
+=> json-server --watch employees.json --port 3001
+
